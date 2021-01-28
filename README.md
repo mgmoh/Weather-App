@@ -1,5 +1,5 @@
 # Weather-App
-### iOS Weather app that allows user input of any location and displays current weather using OpenWeather API.
+### iOS Weather app that allows user input of any location and displays current weather using OpenWeather API. Conforms to MVC architecture.
 ## TO-DO:
 Implement Core Data feature to allow user to store multiple locations for quick access to weather.
 
