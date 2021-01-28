@@ -1,5 +1,7 @@
 # Weather-App
 ### iOS Weather app that allows user input of any location and displays current weather using OpenWeather API.
+## TO-DO:
+Implement Core Data feature to allow user to store multiple locations for quick access to weather.
 
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-01-27 at 00 59 14_iphone12promaxgraphite_portrait](https://user-images.githubusercontent.com/65437211/105949971-98555c00-603b-11eb-927a-0325c4f2f4a1.png)
